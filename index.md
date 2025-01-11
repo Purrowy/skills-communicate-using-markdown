@@ -5,3 +5,5 @@
 ```python
 print("Hello world")
 ```
+- [x] Do this
+- [ ] Do that
